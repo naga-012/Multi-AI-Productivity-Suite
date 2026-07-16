@@ -1,0 +1,13 @@
+Index,Order ID,Date,Status,Channel,Amount
+1,OD-1092,2025-01-15,Delivered,Amazon,899
+2,OD-1093,2025-01-18,Delivered,Myntra,1250
+3,OD-1094,2025-02-05,Cancelled,Flipkart,450
+4,OD-1095,2025-02-12,Delivered,Amazon,1599
+5,OD-1096,2025-03-02,Delivered,Myntra,950
+6,OD-1097,2025-03-22,Delivered,Shopify,2100
+7,OD-1098,2025-04-10,Delivered,Amazon,799
+8,OD-1099,2025-04-15,Delivered,Flipkart,650
+9,OD-1100,2025-05-02,Delivered,Myntra,1850
+10,OD-1101,2025-05-18,Cancelled,Amazon,1200
+11,OD-1102,2025-06-05,Delivered,Shopify,1450
+12,OD-1103,2025-06-12,Delivered,Myntra,1100

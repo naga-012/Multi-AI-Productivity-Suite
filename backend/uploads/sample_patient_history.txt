@@ -1,0 +1,22 @@
+CLINICAL TRIAL WORKSPACE - PATIENT SUMMARY RECORD
+Patient Name: Johnathan Vance
+Age: 68
+Gender: Male
+ID: PAT-9022
+Study Protocol: GL-401 (Early Glaucomatous Nerve Degradation Evaluation)
+
+--- CLINICAL HISTORY & EXAMINATION TIMELINE ---
+- 2025-05-14: Primary Consultation. Visual acuity 20/20 OD, 20/25 OS. IOP recorded at 18 mmHg OD, 17 mmHg OS. Slit-lamp biomicroscopy of anterior segment within normal limits. 
+- 2025-11-18: Follow-up visit. IOP elevated bilaterally to 23 mmHg OD and 22 mmHg OS. Automated Visual Fields (SITA-Standard 24-2) shows early signs of nasal step defect in the right eye (OD). Initiated daily Latanoprost 0.005% ophthalmic solution at bedtime.
+- 2026-06-02: Regular review. Visual acuity stable at 20/20 OD, 20/25 OS. IOP reduced to 16 mmHg OD, 15 mmHg OS. Optic nerve cup-to-disc ratio evaluated at 0.65 OD, 0.55 OS. Signs of progressive thinning of the retinal nerve fiber layer (RNFL) noted in superior temporal sector OD on OCT.
+
+--- SYSTEMIC COMORBIDITIES & MEDICATION LOGS ---
+1. Type 2 Diabetes Mellitus (HbA1c stable at 6.9%). Currently on Metformin 500mg BID.
+2. Moderate Hypertension. Managed with Lisinopril 10mg QD.
+3. No history of ocular trauma or laser surgery. Family history significant for primary open-angle glaucoma (paternal side).
+
+--- CLINICAL RECOMMENDATIONS & IMMEDIATE ACTION ITEMS ---
+1. Continue daily compliance with Latanoprost bedtime drops.
+2. Schedule a repeat 24-2 visual field test and RNFL OCT in 6 months to evaluate stability.
+3. Advise patient to report any ocular pain, headaches, or colored halos around light sources immediately.
+4. Referral to endocrinologist for routine annual diabetic cardiovascular profiling.

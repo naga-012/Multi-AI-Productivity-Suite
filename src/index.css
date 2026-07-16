@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-900 text-slate-100 antialiased font-sans;
+  }
+}
+
+/* Custom scrollbars for patient panels and task lists */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-slate-950;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-800 rounded-md hover:bg-slate-700;
+}
+
+@media print {
+  /* Hide all UI layout wraps */
+  aside, header, footer, form, .print-hide-btn, .chat-assistant-drawer {
+    display: none !important;
+  }
+  
+  /* Reset body wrapper styling */
+  body, main {
+    background: white !important;
+    color: black !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    min-height: auto !important;
+  }
+  
+  main {
+    padding-left: 0 !important;
+  }
+
+  /* Force print preview canvas configuration */
+  .resume-print-canvas {
+    border: none !important;
+    box-shadow: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    aspect-ratio: auto !important;
+  }
+}
+
